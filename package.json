@@ -1,0 +1,25 @@
+{
+  "name": "travis-gke",
+  "version": "1.0.0",
+  "description": "Travis scripts examples for building and deploying an application in GKE (Google Kubernetes Engine)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tithiwat/travis-gke.git"
+  },
+  "keywords": [
+    "ci",
+    "cd",
+    "travis",
+    "gke"
+  ],
+  "author": "Tithiwat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tithiwat/travis-gke/issues"
+  },
+  "homepage": "https://github.com/Tithiwat/travis-gke#readme"
+}
